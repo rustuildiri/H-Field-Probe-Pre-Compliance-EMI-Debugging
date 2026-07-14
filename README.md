@@ -2,7 +2,7 @@
 
 Selamlar! Bu projede, laboratuvar standartlarında binlerce dolar harcamadan, kendi yaptığımız bütçe dostu bir Near-Field H-Field (Manyetik Alan) Probu ile bir PCB üzerindeki EMI (Elektromanyetik Parazit) kaynaklarını nasıl nokta atışı tespit edebileceğimizi inceliyoruz.
 
-* ![Setup1:](assets/screenshots/1.png)
+* ![Setup1:](assets/screenshots/1.jpg)
 ---
 
 Projenin Hikayesi ve Sorun:
@@ -12,7 +12,7 @@ Sertifikasyon test merkezlerine (akredite laboratuvarlara) gidip ölçüm yaptı
 Ben de bu projede, kendi yaptığım basit bir koaksiyel kablo döngüsü (loop) ile Rohde & Schwarz FSV Spektrum Analizörünü bir araya getirdim. Tasarımdaki Buck Converter'ın bobinine yaklaştığım anda ekrandaki gürültü seviyesinin tavan yaptığını gözlemledim.
 
 
-* ![Setup1:](assets/screenshots/2.png)
+* ![Setup1:](assets/screenshots/2.jpg)
 ---
 EMI (Elektromanyetik Parazit) Nedir ve Neden Önemlidir?
 
