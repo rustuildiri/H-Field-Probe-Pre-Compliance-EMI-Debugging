@@ -2,7 +2,7 @@
 
 Selamlar! Bu projede, laboratuvar standartlarında binlerce dolar harcamadan, kendi yaptığımız bütçe dostu bir Near-Field H-Field (Manyetik Alan) Probu ile bir PCB üzerindeki EMI (Elektromanyetik Parazit) kaynaklarını nasıl nokta atışı tespit edebileceğimizi inceliyoruz.
 
-Video için lütfen assets/screenshots/3.mov isimli uzantıyı çalıştırın :)
+###Video için lütfen assets/screenshots/3.mov isimli uzantıyı çalıştırın :)
 
 * ![Setup1:](assets/screenshots/1.jpg)
 ---
